@@ -1,2 +1,2 @@
 # IBM
-Made this repo for IBM data science professional program.
+Made this repo for IBM's data science professional program.
